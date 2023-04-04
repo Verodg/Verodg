@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Verónica</h1>
 <h3 align="center">A junior front-end developer from Spain</h3>
 
-- 👨‍💻 All of my projects are available at [Verodg](Verodg)
+- 👨‍💻 All of my projects are available at [https://github.com/Verodg](Verodg)
 
 - 📫 How to reach me **veronicadelgadogay@gmail.com**
 
