@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Verónica</h1>
+Hello 👋, I'm Verónica. 
+
 <h3 align="center">A junior front-end developer from Spain</h3>
 
 - 📫 How to reach me **veronicadelgadogay@gmail.com**
